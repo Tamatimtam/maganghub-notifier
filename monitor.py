@@ -7,7 +7,7 @@ import time
 import os
 import sys
 
-NTFY_TOPIC = os.getenv("NTFY_TOPIC", "tama-magang-alert")
+NTFY_TOPIC = os.getenv("NTFY_TOPIC", "tama-maganghub-alert")
 BASE_URL = "https://maganghub.kemnaker.go.id"
 LOWONGAN_URL = f"{BASE_URL}/magang-nasional/lowongan"
 

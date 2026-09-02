@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Monitor
         env:
-          NTFY_TOPIC: "tama-magang-alert"
+          NTFY_TOPIC: "tama-maganghub-alert"
         run: |
           if [ "${{ github.event.inputs.test_notification }}" = "true" ]; then
             python3 monitor.py --test
