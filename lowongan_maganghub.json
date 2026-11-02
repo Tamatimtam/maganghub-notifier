@@ -1,78 +1,78 @@
 {
-  "total": 27667,
+  "total": 28833,
   "vacancies": [
     {
-      "id": "01a18ca9-2938-7074-bb7a-93116dfc3748",
+      "id": "01a19b27-aa21-710c-87b5-e2e394b271b8",
+      "positionName": "Tenaga Teknis Pengendalian Konstruksi KNMP"
+    },
+    {
+      "id": "01a161a6-84a1-72af-8451-d4a587b00587",
+      "positionName": "Project Assistant Intern - Grocery Category"
+    },
+    {
+      "id": "01a19b58-7526-7198-850c-56549a287063",
+      "positionName": "Asisten Pengolahan Data Karantina Tumbuhan"
+    },
+    {
+      "id": "01a19b57-854f-72a2-ba68-7380e925b1d7",
+      "positionName": "Asisten Pengolahan Data Karantina Ikan"
+    },
+    {
+      "id": "01a19530-8795-72ad-9495-32fa8ce23ec9",
+      "positionName": "Front Office"
+    },
+    {
+      "id": "01a19b56-a3a8-7274-88f6-9610d78dfa9a",
+      "positionName": "Asisten Pengolahan Data Karantina Hewan"
+    },
+    {
+      "id": "01a15c74-99d9-7229-a422-86b992183b0e",
+      "positionName": "Staff RM"
+    },
+    {
+      "id": "01a19b3a-3e6b-721b-8f7a-53c44b5cf452",
+      "positionName": "Patient Navigator"
+    },
+    {
+      "id": "01a161a7-4209-71c4-aa69-2c5189355091",
+      "positionName": "Quality Control Assistant Intern - Fresh Product"
+    },
+    {
+      "id": "01a19b55-0167-71d8-a1a3-238c4a691e70",
+      "positionName": "Humas"
+    },
+    {
+      "id": "01a19b56-0ec0-7299-bd69-361cbd780ed5",
+      "positionName": "Administrasi dan Pengelolaan Data Keuangan"
+    },
+    {
+      "id": "01a1904f-0fec-73ed-9645-31f6355f3c12",
+      "positionName": "Tehnik Kelistrikan"
+    },
+    {
+      "id": "01a0eaff-dae4-7128-9f4f-0d3cee412676",
+      "positionName": "Animal Welfare Officer (AWO) (Banjarbaru)"
+    },
+    {
+      "id": "01a15c37-da8b-726e-9e63-780cb7d0011d",
+      "positionName": "Staff Gizi"
+    },
+    {
+      "id": "01a19ad8-f6bd-737f-87dd-c2cc75275b20",
       "positionName": "Tenaga Teknis Survei & Pemetaan"
     },
     {
-      "id": "01a15d49-6ebe-7125-9453-d3410b3fc075",
-      "positionName": "Staff Produksi, Staff QC, Teknisi"
+      "id": "01a19531-8444-709d-8a4b-58c582e0d63f",
+      "positionName": "Engineering"
     },
     {
-      "id": "01a1801d-a86d-7191-9fde-431bcce0e367",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
+      "id": "01a19b38-dc8d-7278-ba9b-5e327b5fe348",
+      "positionName": "Quality Management System Support"
     },
     {
-      "id": "01a1807e-dc8a-7293-acc6-2f744e353d95",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a182e7-ef61-7002-85da-852a826519d8",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a180d0-cb05-72c4-a040-74682b731e5a",
-      "positionName": "Operator dan Fabrikasi Pabrik Kelapa Sawit"
-    },
-    {
-      "id": "01a1819a-e865-7314-aeab-1e2ab9bd3eb3",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a1819c-444d-737c-b5d3-166afd09e645",
-      "positionName": "Tenaga Administrasi & Yuridis Pertanahan"
-    },
-    {
-      "id": "01a1822c-1afd-7323-89f1-8e6897fcc80a",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a0f699-181c-7134-abb0-efa653327c1b",
-      "positionName": "Agronomy Intern"
-    },
-    {
-      "id": "01a18646-1520-735a-bbd3-b6c1830aadba",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a18829-f8d5-7264-9622-d7c6a74ba559",
-      "positionName": "Perawat"
-    },
-    {
-      "id": "01a1817f-9b7f-711a-ba99-4539eec306d6",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a18132-f24c-7076-97cc-95be3f13995d",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a17b7e-59bf-70ec-a40a-1da950fffeec",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a181e8-1c07-718c-9215-4e0eff9c1003",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a18059-eb6d-70e8-b3d1-9b64384ae1ff",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
-    },
-    {
-      "id": "01a18cd2-1f96-738b-931d-4e1edb71c55e",
-      "positionName": "Teknis Survei & Pemetaan"
+      "id": "01a19b39-a644-70c7-ac41-5e4a3a642e80",
+      "positionName": "Nutrisionist"
     }
   ],
-  "updatedAt": "2026-10-30 18:53:43"
+  "updatedAt": "2026-11-02 08:55:47"
 }
