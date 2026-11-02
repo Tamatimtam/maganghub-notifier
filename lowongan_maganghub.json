@@ -1,53 +1,13 @@
 {
-  "total": 28833,
+  "total": 28945,
   "vacancies": [
     {
-      "id": "01a19b27-aa21-710c-87b5-e2e394b271b8",
-      "positionName": "Tenaga Teknis Pengendalian Konstruksi KNMP"
-    },
-    {
-      "id": "01a161a6-84a1-72af-8451-d4a587b00587",
-      "positionName": "Project Assistant Intern - Grocery Category"
-    },
-    {
-      "id": "01a19b58-7526-7198-850c-56549a287063",
-      "positionName": "Asisten Pengolahan Data Karantina Tumbuhan"
-    },
-    {
-      "id": "01a19b57-854f-72a2-ba68-7380e925b1d7",
-      "positionName": "Asisten Pengolahan Data Karantina Ikan"
-    },
-    {
-      "id": "01a19530-8795-72ad-9495-32fa8ce23ec9",
-      "positionName": "Front Office"
-    },
-    {
-      "id": "01a19b56-a3a8-7274-88f6-9610d78dfa9a",
-      "positionName": "Asisten Pengolahan Data Karantina Hewan"
-    },
-    {
-      "id": "01a15c74-99d9-7229-a422-86b992183b0e",
-      "positionName": "Staff RM"
+      "id": "01a16416-c371-73aa-99b6-d281d07d810e",
+      "positionName": "Fisikawan Medis"
     },
     {
       "id": "01a19b3a-3e6b-721b-8f7a-53c44b5cf452",
       "positionName": "Patient Navigator"
-    },
-    {
-      "id": "01a161a7-4209-71c4-aa69-2c5189355091",
-      "positionName": "Quality Control Assistant Intern - Fresh Product"
-    },
-    {
-      "id": "01a19b55-0167-71d8-a1a3-238c4a691e70",
-      "positionName": "Humas"
-    },
-    {
-      "id": "01a19b56-0ec0-7299-bd69-361cbd780ed5",
-      "positionName": "Administrasi dan Pengelolaan Data Keuangan"
-    },
-    {
-      "id": "01a1904f-0fec-73ed-9645-31f6355f3c12",
-      "positionName": "Tehnik Kelistrikan"
     },
     {
       "id": "01a0eaff-dae4-7128-9f4f-0d3cee412676",
@@ -58,21 +18,61 @@
       "positionName": "Staff Gizi"
     },
     {
-      "id": "01a19ad8-f6bd-737f-87dd-c2cc75275b20",
-      "positionName": "Tenaga Teknis Survei & Pemetaan"
+      "id": "01a15214-e5ca-7043-ac14-396c1ef1a5ab",
+      "positionName": "Psikolog Klinis"
     },
     {
-      "id": "01a19531-8444-709d-8a4b-58c582e0d63f",
-      "positionName": "Engineering"
+      "id": "01a17b6f-7a19-7342-aa0c-0ccb3a8e0153",
+      "positionName": "Terapis Gigi dan Mulut"
     },
     {
-      "id": "01a19b38-dc8d-7278-ba9b-5e327b5fe348",
-      "positionName": "Quality Management System Support"
+      "id": "01a12e55-9727-715c-af11-45efeced0757",
+      "positionName": "Terapis Gigi dan Mulut"
+    },
+    {
+      "id": "01a11909-6969-7014-91be-927b54e32281",
+      "positionName": "Terapis Gigi dan Mulut"
+    },
+    {
+      "id": "01a1847e-79b7-7249-8954-df95ebbe2619",
+      "positionName": "Psikologis klinis"
+    },
+    {
+      "id": "01a0ebd1-b9f3-73f0-aaa5-7fc50bd7ec74",
+      "positionName": "Radiographer"
+    },
+    {
+      "id": "01a185d1-562f-7396-8c7e-b1054b964aaa",
+      "positionName": "Terapis Gigi dan Mulut"
+    },
+    {
+      "id": "01a15c74-99d9-7229-a422-86b992183b0e",
+      "positionName": "Staff RM"
+    },
+    {
+      "id": "01a12e1f-5553-72bc-99e7-a2ec0d615325",
+      "positionName": "Operator CNC & Cutting"
+    },
+    {
+      "id": "01a0e5bb-d196-71e1-9454-804bc9069394",
+      "positionName": "Radiografer"
+    },
+    {
+      "id": "01a10af4-df3c-73b0-9348-a4e2d4e7077f",
+      "positionName": "Mandarin Translator Intern"
+    },
+    {
+      "id": "01a19a77-96bb-735e-80a4-c0c04c70a15a",
+      "positionName": "Terapis Gigi & Mulut"
+    },
+    {
+      "id": "01a19536-e1f3-729f-a8ab-7c7f5cb481ed",
+      "positionName": "F&B Admin"
     },
     {
       "id": "01a19b39-a644-70c7-ac41-5e4a3a642e80",
       "positionName": "Nutrisionist"
     }
   ],
-  "updatedAt": "2026-11-02 08:55:47"
+  "updatedAt": "2026-11-02 19:23:02"
 }
