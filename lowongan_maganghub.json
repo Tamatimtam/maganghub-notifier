@@ -1,78 +1,78 @@
 {
-  "total": 28945,
+  "total": 28943,
   "vacancies": [
     {
-      "id": "01a16416-c371-73aa-99b6-d281d07d810e",
-      "positionName": "Fisikawan Medis"
+      "id": "01a15c37-da8b-726e-9e63-780cb7d0011d",
+      "positionName": "Staff Gizi"
     },
     {
       "id": "01a19b3a-3e6b-721b-8f7a-53c44b5cf452",
       "positionName": "Patient Navigator"
     },
     {
-      "id": "01a0eaff-dae4-7128-9f4f-0d3cee412676",
-      "positionName": "Animal Welfare Officer (AWO) (Banjarbaru)"
-    },
-    {
-      "id": "01a15c37-da8b-726e-9e63-780cb7d0011d",
-      "positionName": "Staff Gizi"
+      "id": "01a16207-e4eb-7095-963c-6c33d7a6dcb3",
+      "positionName": "Teknisi Mekanikal"
     },
     {
       "id": "01a15214-e5ca-7043-ac14-396c1ef1a5ab",
       "positionName": "Psikolog Klinis"
     },
     {
-      "id": "01a17b6f-7a19-7342-aa0c-0ccb3a8e0153",
-      "positionName": "Terapis Gigi dan Mulut"
-    },
-    {
-      "id": "01a12e55-9727-715c-af11-45efeced0757",
-      "positionName": "Terapis Gigi dan Mulut"
-    },
-    {
-      "id": "01a11909-6969-7014-91be-927b54e32281",
-      "positionName": "Terapis Gigi dan Mulut"
+      "id": "01a0eaff-dae4-7128-9f4f-0d3cee412676",
+      "positionName": "Animal Welfare Officer (AWO) (Banjarbaru)"
     },
     {
       "id": "01a1847e-79b7-7249-8954-df95ebbe2619",
       "positionName": "Psikologis klinis"
     },
     {
-      "id": "01a0ebd1-b9f3-73f0-aaa5-7fc50bd7ec74",
-      "positionName": "Radiographer"
+      "id": "01a12e1f-5553-72bc-99e7-a2ec0d615325",
+      "positionName": "Operator CNC & Cutting"
     },
     {
-      "id": "01a185d1-562f-7396-8c7e-b1054b964aaa",
-      "positionName": "Terapis Gigi dan Mulut"
+      "id": "01a16416-c371-73aa-99b6-d281d07d810e",
+      "positionName": "Fisikawan Medis"
     },
     {
       "id": "01a15c74-99d9-7229-a422-86b992183b0e",
       "positionName": "Staff RM"
     },
     {
-      "id": "01a12e1f-5553-72bc-99e7-a2ec0d615325",
-      "positionName": "Operator CNC & Cutting"
-    },
-    {
-      "id": "01a0e5bb-d196-71e1-9454-804bc9069394",
-      "positionName": "Radiografer"
-    },
-    {
-      "id": "01a10af4-df3c-73b0-9348-a4e2d4e7077f",
-      "positionName": "Mandarin Translator Intern"
-    },
-    {
-      "id": "01a19a77-96bb-735e-80a4-c0c04c70a15a",
-      "positionName": "Terapis Gigi & Mulut"
-    },
-    {
       "id": "01a19536-e1f3-729f-a8ab-7c7f5cb481ed",
       "positionName": "F&B Admin"
     },
     {
-      "id": "01a19b39-a644-70c7-ac41-5e4a3a642e80",
-      "positionName": "Nutrisionist"
+      "id": "01a191f4-97ab-7166-a30f-24bf1c40c33b",
+      "positionName": "Tenaga Administrasi & Yuridis Pertanahan"
+    },
+    {
+      "id": "01a1622c-6ae9-7173-b32d-bf2fa186533e",
+      "positionName": "Ahli Gizi"
+    },
+    {
+      "id": "01a15c45-88f3-7208-9e83-399520dd4a5a",
+      "positionName": "TERAPIS GIGI DAN MULUT"
+    },
+    {
+      "id": "01a1621b-05de-7320-b79a-3a03a62204ed",
+      "positionName": "Perawat Gigi"
+    },
+    {
+      "id": "01a15c7a-1fc4-7005-84c6-96e37bd2e602",
+      "positionName": "Perawat Gigi"
+    },
+    {
+      "id": "01a16337-9fb3-7140-b452-186c8bce6931",
+      "positionName": "Translator Mandarin"
+    },
+    {
+      "id": "01a1630b-014e-73cc-b601-74a1d0e62fa8",
+      "positionName": "Procurement Assistant (Mandarin Speaker)"
+    },
+    {
+      "id": "01a1630b-5cee-72a9-9c02-ce1a16ac12ff",
+      "positionName": "Production Assistant (Mandarin Speaker)"
     }
   ],
-  "updatedAt": "2026-11-02 19:23:02"
+  "updatedAt": "2026-11-03 08:37:41"
 }
