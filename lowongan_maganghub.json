@@ -1,33 +1,9 @@
 {
-  "total": 29018,
+  "total": 29041,
   "vacancies": [
-    {
-      "id": "01a19b3a-3e6b-721b-8f7a-53c44b5cf452",
-      "positionName": "Patient Navigator"
-    },
     {
       "id": "01a15c74-99d9-7229-a422-86b992183b0e",
       "positionName": "Staff RM"
-    },
-    {
-      "id": "01a1a4f0-254c-7029-87bc-1292fb70fb69",
-      "positionName": "SANITARIAN"
-    },
-    {
-      "id": "01a1a4ef-da25-72d2-996e-78cdaf7c6d61",
-      "positionName": "PERAWAT"
-    },
-    {
-      "id": "01a1a4eb-e9db-7151-a890-44e3191d6f54",
-      "positionName": "DUTA LAYANAN"
-    },
-    {
-      "id": "01a1a4ef-1f1b-711a-8e3c-0b841bc6043b",
-      "positionName": "PENGELOLA KEUANGAN DAN ANGGARAN"
-    },
-    {
-      "id": "01a19536-e1f3-729f-a8ab-7c7f5cb481ed",
-      "positionName": "F&B Admin"
     },
     {
       "id": "01a1622c-6ae9-7173-b32d-bf2fa186533e",
@@ -38,24 +14,12 @@
       "positionName": "Psikolog Klinis"
     },
     {
-      "id": "01a1194d-02d2-722b-9811-21ff336024c7",
-      "positionName": "Fisioterapis"
-    },
-    {
       "id": "01a12e55-9727-715c-af11-45efeced0757",
       "positionName": "Terapis Gigi dan Mulut"
     },
     {
       "id": "01a12e1f-5553-72bc-99e7-a2ec0d615325",
       "positionName": "Operator CNC & Cutting"
-    },
-    {
-      "id": "01a0f805-ad6b-70f1-8188-c981f687c371",
-      "positionName": "Ahli Terapis Gigi dan Mulut (TGM)"
-    },
-    {
-      "id": "01a11909-6969-7014-91be-927b54e32281",
-      "positionName": "Terapis Gigi dan Mulut"
     },
     {
       "id": "01a0eaff-dae4-7128-9f4f-0d3cee412676",
@@ -66,13 +30,49 @@
       "positionName": "Perawat gigi"
     },
     {
-      "id": "01a0fa3c-5d3c-71b4-bb00-cede5d155f14",
-      "positionName": "Terapis Gigi dan Mulut (Perawat Gigi)"
+      "id": "01a16416-c371-73aa-99b6-d281d07d810e",
+      "positionName": "Fisikawan Medis"
     },
     {
-      "id": "01a0fad7-1f29-710e-a5ea-510877e2db4e",
+      "id": "01a15c37-da8b-726e-9e63-780cb7d0011d",
+      "positionName": "Staff Gizi"
+    },
+    {
+      "id": "01a1880d-dd3e-71d0-8c2b-1826ed9cee7a",
+      "positionName": "ANALIS"
+    },
+    {
+      "id": "01a19b3a-3e6b-721b-8f7a-53c44b5cf452",
+      "positionName": "Patient Navigator"
+    },
+    {
+      "id": "01a15201-752e-714e-b0ac-8c47acd85a5d",
+      "positionName": "TRANSLATOR MANDARIN"
+    },
+    {
+      "id": "01a0f5fc-0f50-713c-a684-798195b56b74",
       "positionName": "Terapis Gigi dan Mulut"
+    },
+    {
+      "id": "01a162eb-a5b2-727c-8a71-d678cf35c3e8",
+      "positionName": "Mandarin Translator Staff"
+    },
+    {
+      "id": "01a14905-a32a-71f0-a6a4-3235551eeb68",
+      "positionName": "Translator Mandarin (Laki-Laki)"
+    },
+    {
+      "id": "01a1339d-a900-72d7-8ba3-60b4feb2cd26",
+      "positionName": "Translator Mandarin"
+    },
+    {
+      "id": "01a177b0-ddca-72c9-9d91-6bc106746ce3",
+      "positionName": "Pengolah Data dan Informasi"
+    },
+    {
+      "id": "01a10af4-df3c-73b0-9348-a4e2d4e7077f",
+      "positionName": "Mandarin Translator Intern"
     }
   ],
-  "updatedAt": "2026-11-04 09:14:42"
+  "updatedAt": "2026-11-04 17:21:24"
 }
